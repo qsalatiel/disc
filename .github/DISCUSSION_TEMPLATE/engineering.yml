@@ -18,7 +18,8 @@ body:
   - type: markdown
     id: area
     attributes:
-      label: What do you want to discuss
+      value: |
+        Type here
     validations:
       required: true
 
